@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: dzplus
+Premain-Class: life.duanzhang.premain.PremainMain
+
